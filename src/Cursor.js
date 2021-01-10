@@ -75,7 +75,7 @@ const MenuRight = ({ magnetIn, magnetOut, rotateMenu }) => {
           </svg>
         </a>
         <a
-                    href="https://github.com/isengupt/cubic-noise/"
+                    href="#"
           className="link"
           onMouseEnter={magnetIn}
           onMouseLeave={magnetOut}
