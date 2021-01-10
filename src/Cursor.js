@@ -75,7 +75,7 @@ const MenuRight = ({ magnetIn, magnetOut, rotateMenu }) => {
           </svg>
         </a>
         <a
-          href="#"
+                    href="https://github.com/isengupt/cubic-noise/"
           className="link"
           onMouseEnter={magnetIn}
           onMouseLeave={magnetOut}
@@ -381,7 +381,7 @@ export default function Cursor() {
             />
 
             <a
-              href="#"
+               href="https://github.com/isengupt/cubic-noise/"
               className="link full__link"
               onMouseEnter={magnetIn}
               onMouseLeave={magnetOut}
@@ -421,7 +421,7 @@ export default function Cursor() {
             />
 
             <a
-              href="#"
+                  href="https://isengupt.github.io/fiber-website/"
               className="link full__link"
               onMouseEnter={magnetIn}
               onMouseLeave={magnetOut}
