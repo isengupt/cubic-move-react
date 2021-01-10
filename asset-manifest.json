@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cubic-move-react/static/css/main.9e47a54a.chunk.css",
-    "main.js": "/cubic-move-react/static/js/main.26dd2069.chunk.js",
-    "main.js.map": "/cubic-move-react/static/js/main.26dd2069.chunk.js.map",
+    "main.js": "/cubic-move-react/static/js/main.c36f2c61.chunk.js",
+    "main.js.map": "/cubic-move-react/static/js/main.c36f2c61.chunk.js.map",
     "runtime-main.js": "/cubic-move-react/static/js/runtime-main.be1dd2b8.js",
     "runtime-main.js.map": "/cubic-move-react/static/js/runtime-main.be1dd2b8.js.map",
     "static/js/2.7ea2f790.chunk.js": "/cubic-move-react/static/js/2.7ea2f790.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.be1dd2b8.js",
     "static/js/2.7ea2f790.chunk.js",
     "static/css/main.9e47a54a.chunk.css",
-    "static/js/main.26dd2069.chunk.js"
+    "static/js/main.c36f2c61.chunk.js"
   ]
 }
