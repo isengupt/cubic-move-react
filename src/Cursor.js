@@ -381,7 +381,7 @@ export default function Cursor() {
             />
 
             <a
-               href="https://github.com/isengupt/cubic-noise/"
+               href="https://github.com/isengupt/cubic-move-react/"
               className="link full__link"
               onMouseEnter={magnetIn}
               onMouseLeave={magnetOut}
@@ -421,7 +421,7 @@ export default function Cursor() {
             />
 
             <a
-                  href="https://isengupt.github.io/fiber-website/"
+                  href="https://isengupt.github.io/audio-visual/"
               className="link full__link"
               onMouseEnter={magnetIn}
               onMouseLeave={magnetOut}
